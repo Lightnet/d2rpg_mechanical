@@ -64,8 +64,8 @@ nodes {
     w: 1.0
   }
   size {
-    x: 200.0
-    y: 100.0
+    x: 128.0
+    y: 32.0
     z: 0.0
     w: 1.0
   }
@@ -77,7 +77,7 @@ nodes {
   }
   type: TYPE_BOX
   blend_mode: BLEND_MODE_ALPHA
-  texture: ""
+  texture: "ui/button128x32base_idle"
   id: "mainmenu/button"
   xanchor: XANCHOR_NONE
   yanchor: YANCHOR_NONE
@@ -113,14 +113,14 @@ nodes {
     w: 1.0
   }
   scale {
-    x: 3.88
-    y: 3.88
-    z: 3.88
+    x: 1.0
+    y: 1.0
+    z: 1.0
     w: 1.0
   }
   size {
-    x: 200.0
-    y: 100.0
+    x: 1.0
+    y: 1.0
     z: 0.0
     w: 1.0
   }

@@ -5,7 +5,8 @@ end
 
 function on_input(self, action_id, action)
 	--print("??")
-	if action_id == hash("click") and action.pressed then 
+	if action_id == hash("click") and action.pressed then
+		print("click!")
 		local button = gui.get_node("button") 
 		local text = gui.get_node("text") 
 		if gui.pick_node(button, action.x, action.y) then 
