@@ -1,4 +1,4 @@
-font: "/fonts/alpha-beta/alphbeta.ttf"
+font: "/assets/fonts/alpha-beta/alphbeta.ttf"
 material: "/builtins/fonts/font.material"
 size: 15
 antialias: 1

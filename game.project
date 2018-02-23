@@ -1,6 +1,7 @@
 [project]
 title = RPG Mechanical
 version = 0.1
+dependencies = 
 
 [bootstrap]
 main_collection = /main/main.collectionc

@@ -1,0 +1,9 @@
+images {
+  image: "/assets/UI/images/button128x32base_idle.png"
+}
+images {
+  image: "/assets/UI/images/button128x32base_press.png"
+}
+margin: 0
+extrude_borders: 0
+inner_padding: 0
